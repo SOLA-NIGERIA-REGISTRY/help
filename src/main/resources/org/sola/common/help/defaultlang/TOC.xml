@@ -143,7 +143,7 @@
 			<tocitem text="Logging" target="logging" />
 		</tocitem>
 		<tocitem text="Release Notes" target="release_notes_overview">
-			<tocitem text="Release v1510c" target="release_1510c" />
+			<tocitem text="Release v1510d.2" target="release_1510d.2" />
 		</tocitem>
 		<tocitem text="Appendix">
 			<tocitem text="Appendix 1 - Registry Business Rules" target="app_business_rules" />
